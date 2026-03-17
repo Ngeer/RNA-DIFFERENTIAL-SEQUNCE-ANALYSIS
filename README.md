@@ -3,7 +3,7 @@ RNA-Seq Analysis of ERβ Signaling in Inflammatory Breast Cancer
 
 This project investigates the role of Estrogen Receptor β (ERβ) in aggressive breast cancer using RNA-seq data.
 The goal is to identify differentially expressed genes and understand how ERβ influences gene regulation and tumor behavior.
-
+THE DATA WERE GOTTEN FROM https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE274446
 🎯 Objectives
 
 Perform quality control on raw RNA-seq data
@@ -84,8 +84,6 @@ Evidence of repressive regulatory roles of ERβ
 
 🛠️ Tools & Technologies
 
-Nextflow (workflow management)
-
 R (edgeR, limma, ggplot2)
 
 STAR
@@ -93,3 +91,6 @@ STAR
 FastQC / MultiQC
 
 featureCounts
+
+
+
